@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-02-25T08:45:36Z" name="Default suite" finished-at="2020-02-25T08:45:36Z" duration-ms="191">
+  <suite started-at="2020-02-25T10:07:11Z" name="Default suite" finished-at="2020-02-25T10:07:11Z" duration-ms="190">
     <groups>
     </groups>
-    <test started-at="2020-02-25T08:45:36Z" name="Default test" finished-at="2020-02-25T08:45:36Z" duration-ms="191">
+    <test started-at="2020-02-25T10:07:11Z" name="Default test" finished-at="2020-02-25T10:07:11Z" duration-ms="190">
       <class name="com.qa.Calculator.SimpleTests">
-        <test-method signature="testAddMethod()[pri:0, instance:com.qa.Calculator.SimpleTests@3eb738bb]" started-at="2020-02-25T08:45:36Z" name="testAddMethod" finished-at="2020-02-25T08:45:36Z" duration-ms="57" status="PASS">
+        <test-method signature="testAddMethod()[pri:0, instance:com.qa.Calculator.SimpleTests@3eb738bb]" started-at="2020-02-25T10:07:11Z" name="testAddMethod" finished-at="2020-02-25T10:07:11Z" duration-ms="38" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAddMethod -->

@@ -21,3 +21,9 @@ repositories {
     // You can declare any Maven/Ivy/file repository here.
     jcenter()
 }
+
+task allTests(type: Test){
+	useTestNG(){
+		useDefaultListeners = true
+	}
+}
